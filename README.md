@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devi Priya</h1>
-<h3 align="center">A passionate full stack Web Developer and Android Developer</h3>
+<h3 align="center">Explore & Experience as a passionate Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya591-devi&label=Profile%20views&color=0e75b6&style=flat" alt="priya591-devi" /> </p>
 
